@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish": "np",
+    "publish": "np --preview",
     "test": "ava"
   },
   "keywords": [],
