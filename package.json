@@ -1,10 +1,10 @@
 {
   "name": "@dudley/test-empty",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish": "np --preview",
+    "np": "np",
     "test": "ava"
   },
   "keywords": [],
