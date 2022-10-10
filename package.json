@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "publish": "np",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "ava": "^4.3.3",
     "np": "^7.6.2"
   }
 }
