@@ -13,5 +13,8 @@
   "devDependencies": {
     "ava": "^4.3.3",
     "np": "^7.6.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
